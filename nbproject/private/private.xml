@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/SU22B2_SOF203_IT17316/AssigmentDA1/src/Views/QuanLyHoaDonView.java</file>
+            <file>file:/D:/SU22B2_SOF203_IT17316/AssigmentDA1/src/Repositories/NhanVienRepository.java</file>
+            <file>file:/D:/SU22B2_SOF203_IT17316/AssigmentDA1/src/Repositories/HDCTRepository.java</file>
+            <file>file:/D:/SU22B2_SOF203_IT17316/AssigmentDA1/src/Service/HoaDonServiceImpl.java</file>
+            <file>file:/D:/SU22B2_SOF203_IT17316/AssigmentDA1/src/Service/HDCTServiceImpl.java</file>
+            <file>file:/D:/SU22B2_SOF203_IT17316/AssigmentDA1/src/Views/QuanLyBanView.java</file>
+            <file>file:/D:/SU22B2_SOF203_IT17316/AssigmentDA1/src/Views/Ordermon.java</file>
+            <file>file:/D:/SU22B2_SOF203_IT17316/AssigmentDA1/src/Ulties/DBContext.java</file>
+            <file>file:/D:/SU22B2_SOF203_IT17316/AssigmentDA1/src/Views/ThongKeView.java</file>
+            <file>file:/D:/SU22B2_SOF203_IT17316/AssigmentDA1/src/Views/SanPhamView.java</file>
+            <file>file:/D:/SU22B2_SOF203_IT17316/AssigmentDA1/src/Views/BanHangView.java</file>
+            <file>file:/D:/SU22B2_SOF203_IT17316/AssigmentDA1/src/Views/NhanVienView.java</file>
+            <file>file:/D:/SU22B2_SOF203_IT17316/AssigmentDA1/src/Repositories/MonRepository.java</file>
+            <file>file:/D:/SU22B2_SOF203_IT17316/AssigmentDA1/src/Repositories/ThongKeRepository.java</file>
+            <file>file:/D:/SU22B2_SOF203_IT17316/AssigmentDA1/src/Application/main.java</file>
+            <file>file:/D:/SU22B2_SOF203_IT17316/AssigmentDA1/src/Views/MainFrame.java</file>
+            <file>file:/D:/SU22B2_SOF203_IT17316/AssigmentDA1/src/Service/ThongKeService.java</file>
+            <file>file:/D:/SU22B2_SOF203_IT17316/AssigmentDA1/src/Views/LoginView.java</file>
+            <file>file:/D:/SU22B2_SOF203_IT17316/AssigmentDA1/src/Service/HDCTService.java</file>
+            <file>file:/D:/SU22B2_SOF203_IT17316/AssigmentDA1/src/Repositories/BanRepository.java</file>
+            <file>file:/D:/SU22B2_SOF203_IT17316/AssigmentDA1/src/Repositories/HoaDonRepository.java</file>
+            <file>file:/D:/SU22B2_SOF203_IT17316/AssigmentDA1/src/Service/HoaDonService.java</file>
+            <file>file:/D:/SU22B2_SOF203_IT17316/AssigmentDA1/src/Views/gheptachhoadon.java</file>
+        </group>
+    </open-files>
+</project-private>
